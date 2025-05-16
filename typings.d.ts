@@ -5,5 +5,5 @@ type Product = {
   description: string;
   category: string;
   image: string;
-  rating: {tate:number; couunt: number;};
-}
+  rating: { rate: number; couunt: number };
+};
