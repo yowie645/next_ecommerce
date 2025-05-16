@@ -2,13 +2,13 @@
 
 <h1 align="center">💫 About Project</h1>
 
-## 🧸 ClientSocialNetwork — Your Gateway to a Custom Social Network
+## 🛍️ Next.js Ecommerce — My first project is on next.js that's when I met him)
 
-ClientSocialNetwork is a sleek, modern client application for a social network, built with **React** and **TypeScript**. Designed for seamless interaction, it lets you connect with friends, share posts, and engage in real-time communication—all through an intuitive and responsive interface.
+ClientSocialNetwork is a simple online store project with a fakestore api
 
 ## 💻 Tech Stack:
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - **This is the frontend repository the backend for this repository is located here - https://github.com/yowie645/express-api-social-network**
 
