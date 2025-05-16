@@ -2,27 +2,28 @@
 
 <h1 align="center">💫 About Project</h1>
 
-## 🛍️ Next.js Ecommerce — My first project is on next.js that's when I met him)
+## 🛍️ Next.js Ecommerce is My first love in the Next world.js! ❤️
 
-ClientSocialNetwork is a simple online store project with a fakestore api
+Next.js Ecommerce is a simple ecommerce online store project with a fakestore api. While creating this project, I got to know Next for the first time.js — and it was love from the first render!
 
 ## 💻 Tech Stack:
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- **The project is available for general use at the link - https://github.com/yowie645/express-api-social-network**
+- **The project is available for general use at the link - https://next-ecommerce-beta-six.vercel.app/**
 
-### ✨ Key Features
+### 🔥 What's inside?
 
-- **User Profiles:** View and edit your profile with ease.
-- **News Feed:** Stay updated with the latest posts from your network.
-- **Reactions & Comments:** Like posts and join discussions.
-- **Avatar & Cover Updates:** Easily change your profile and cover images.
-- **Followers & Subscriptions:** Track who follows you and manage your subscriptions.
+- **A magical catalog of** products (thanks to the [FakeStore API](https://fakestoreapi.com /))
+- Smooth **navigation without restarts**
 
-### 🌈.ENV
+### 🌈 Why is this project special?
 
-- **VITE_API_URL**= VITE_API_URL
+- **This is my first experience with Next.js, where am I:**
+- ✅Overcame fears of Server Components
+- ✅I learned how to work with dynamic routes
+- ✅Realized the magic of SSR/ISR
+- ✅Fell in love with the ease of deployment on Vercel
 
 ## 📸 Screenshots
 
