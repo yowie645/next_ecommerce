@@ -14,12 +14,13 @@ Next.js Ecommerce is a simple ecommerce online store project with a fakestore ap
 
 ### 🔥 What's inside?
 
-- **A magical catalog of** products (thanks to the [FakeStore API](https://fakestoreapi.com /))
+- **A magical catalog of** products (thanks to the [FakeStore API](https://fakestoreapi.com))
 - Smooth **navigation without restarts**
 
 ### 🌈 Why is this project special?
 
-- **This is my first experience with Next.js, where am I:**
+**This is my first experience with Next.js, where am I:**
+
 - ✅Overcame fears of Server Components
 - ✅I learned how to work with dynamic routes
 - ✅Realized the magic of SSR/ISR
